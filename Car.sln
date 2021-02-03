@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfases", "Interfases\Interfases.csproj", "{7BFA0F3E-E55C-46B3-BE2B-59EF8509527B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{D17CB629-41A5-4FDA-8297-3E5770669194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spa", "Spa\Spa.csproj", "{329CA428-04F6-4574-9BA6-869846C6253A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BFA0F3E-E55C-46B3-BE2B-59EF8509527B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFA0F3E-E55C-46B3-BE2B-59EF8509527B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFA0F3E-E55C-46B3-BE2B-59EF8509527B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFA0F3E-E55C-46B3-BE2B-59EF8509527B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17CB629-41A5-4FDA-8297-3E5770669194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17CB629-41A5-4FDA-8297-3E5770669194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17CB629-41A5-4FDA-8297-3E5770669194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17CB629-41A5-4FDA-8297-3E5770669194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329CA428-04F6-4574-9BA6-869846C6253A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329CA428-04F6-4574-9BA6-869846C6253A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329CA428-04F6-4574-9BA6-869846C6253A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329CA428-04F6-4574-9BA6-869846C6253A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA9006F-D14E-4DB1-BC86-AB175E76295A}
+	EndGlobalSection
+EndGlobal
