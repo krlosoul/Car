@@ -195,4 +195,11 @@ export class ProductosComponent implements OnInit {
     });
   }
 
+  editKey():boolean {
+    if (this.enable == true && this.edit == false) {
+      return true;
+    }
+    return false;
+  }
+
 }
