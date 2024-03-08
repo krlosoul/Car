@@ -2,10 +2,6 @@
 <p>Carrito de compra basico, desarrollado con C# (EF core, code first), angular y SQL Server</p>
 <p>*No tiene seguridad</p>
 <p><a href="https://ibb.co/YWzPr3Q"><img src="https://i.ibb.co/3sD4J7d/login.png" alt="login" border="0"></a></p>
-
-<p><a href="http://10.20.16.43:8083/api/Op360Files/GetFiles?id_soporte=590"><img src="http://10.20.16.43:8083/api/Op360Files/GetFiles?id_soporte=590" alt="login" border="0"></a></p>
-
-
 <p><a href="https://ibb.co/YBgSZv5"><img src="https://i.ibb.co/1GcN6HC/registrar.png" alt="registrar" border="0"></a></p>
 <p><a href="https://ibb.co/sV3xPmv"><img src="https://i.ibb.co/S3vYxsX/home.png" alt="home" border="0"></a></p>
 <p><a href="https://ibb.co/72L3bTH"><img src="https://i.ibb.co/4P3bJDc/pruductos.png" alt="pruductos" border="0"></a></p>
