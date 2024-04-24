@@ -9,15 +9,6 @@
 <p><a href="https://ibb.co/hKSB34N"><img src="https://i.ibb.co/kht4NwT/historial.png" alt="historial" border="0"></a></p>
 
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Imagen Embebida</title>
-</head>
-<body>
-  <h1>Imagen Embebida desde URL</h1>
+
   <img src="https://desarollo.blob.core.windows.net/artenaranda/Firma.png?sv=2021-08-06&se=2024-04-24T16%3A19%3A44Z&sr=c&sp=r&sig=2y0Q9dHBlUP2BH%2B72VNTTHgTyOcJqqBPEqWgRpBU%2B7w%3D" alt="Firma de Artenaranda">
-</body>
-</html>
+
