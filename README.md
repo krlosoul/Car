@@ -7,10 +7,3 @@
 <p><a href="https://ibb.co/72L3bTH"><img src="https://i.ibb.co/4P3bJDc/pruductos.png" alt="pruductos" border="0"></a></p>
 <p><a href="https://ibb.co/jwb5fcC"><img src="https://i.ibb.co/LgYPRLT/carrito.png" alt="carrito" border="0"></a></p>
 <p><a href="https://ibb.co/hKSB34N"><img src="https://i.ibb.co/kht4NwT/historial.png" alt="historial" border="0"></a></p>
-
-
-
-
-
-
-<p><a href="https://desarollo.blob.core.windows.net/artenaranda/Firma.png?sv=2021-08-06&se=2024-04-24T16%3A28%3A56Z&sr=c&sp=r&sig=Xi8COVVHINDi1ikdHKGd9l7LSDonbkhMi%2FJgrIsm7pY%3D"><img src="https://desarollo.blob.core.windows.net/artenaranda/Firma.png?sv=2021-08-06&se=2024-04-24T16%3A28%3A56Z&sr=c&sp=r&sig=Xi8COVVHINDi1ikdHKGd9l7LSDonbkhMi%2FJgrIsm7pY%3D" alt="historial" border="0"></a></p>
